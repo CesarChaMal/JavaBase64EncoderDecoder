@@ -1,0 +1,55 @@
+
+[	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(ø°º–
+\	java:S112¶"FDefine and throw a dedicated exception instead of using a generic one.(ø×ø½
+a	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(œåï€ÿÿÿÿÿ
+r	java:S127u"XRefactor the code in order to not assign to this loop counter from within the loop body.(®¼ÅÖüÿÿÿÿ
+r	java:S127u"XRefactor the code in order to not assign to this loop counter from within the loop body.(®¼ÅÖüÿÿÿÿ
+r	java:S127u"XRefactor the code in order to not assign to this loop counter from within the loop body.(®¼ÅÖüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¿Ç÷¶ûÿÿÿÿ
+u
+java:S1149U"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¸ª™éÿÿÿÿÿ
+@
+java:S1197,"*Move the array designators [] to the type.(Òİ¨
+.
+java:S21784"Correct this "&" to "&&".(¶ÄŸ%
+/
+java:S2178;"Correct this "&" to "&&".(ÁşÌß
+/
+java:S2178C"Correct this "&" to "&&".(²–¾¼
+@
+java:S1197P"*Move the array designators [] to the type.(÷Ã‡
+E
+java:S1197T"*Move the array designators [] to the type.(áåƒ‹ÿÿÿÿÿ
+7
+java:S1110e"!Remove these useless parentheses.(»ºâş
+7
+java:S1110e"!Remove these useless parentheses.(»ºâş
+F
+java:S1197"*Move the array designators [] to the type.(‰ºşÿÿÿÿ
+P
+java:S4719‘"9Replace charset name argument with StandardCharsets.UTF_8(ÑÓ
+n
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œåï€ÿÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(¤Œãòşÿÿÿÿ
+=
+java:S1168—"&Return an empty array instead of null.(˜ŸË
+A
+java:S1197˜"*Move the array designators [] to the type.(ùª­–
+U
+java:S4719˜">Replace charset name argument with StandardCharsets.ISO_8859_1(ùª­–
+F
+java:S1197™"*Move the array designators [] to the type.(åşøşÿÿÿÿ
+A
+java:S1197š"*Move the array designators [] to the type.(Ú¼Ó­
+W	java:S125"<This block of commented-out lines of code should be removed.(ª‘¾¼şÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(ˆïÛ”úÿÿÿÿ
+7
+java:S1110¹"!Remove these useless parentheses.(®±Å-
+7
+java:S1110¹"!Remove these useless parentheses.(®±Å-
+7
+java:S1110¹"!Remove these useless parentheses.(®±Å-
+W	java:S125½"<This block of commented-out lines of code should be removed.(‰›³Şùÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(÷Â¨øıÿÿÿÿ
